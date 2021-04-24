@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to  Kafka online test page
 
-You can use the [editor on GitHub](https://github.com/goro-79/kafka-onlin-test-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Apache Kafka is very popular streaming platform in software industry which is distributed, higly scalable, fault tolerant and reselient.
+There are many tools and resources available now days as Kafka has become very popular.
+However there is not online tool to quickly connect to Kafka cluster and interact may to be test it or for demo.
+By default Kafka comes with a console application for interaction and in market we have tools which you need to download and setup.
+This motivated to create an online web application to test kafka.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can play with such an online tool (here)[https://www.gauravsalvi.com/kafka-online-test/]
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goro-79/kafka-onlin-test-page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Feel free to contact me at : mailto:mail@gorodev.com
