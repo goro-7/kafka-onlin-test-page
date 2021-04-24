@@ -6,6 +6,6 @@ However there is not online tool to quickly connect to Kafka cluster and interac
 By default Kafka comes with a console application for interaction and in market we have tools which you need to download and setup.
 This motivated to create an online web application to test kafka.
 
-You can play with such an online tool (here)[https://www.gauravsalvi.com/kafka-online-test/]
+You can play with such an online tool [here](https://www.gauravsalvi.com/kafka-online-test/)
 
-Feel free to contact me at : mailto:mail@gorodev.com
+Feel free to contact me at : [mail](mailto:mail@gorodev.com)
